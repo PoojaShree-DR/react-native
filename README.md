@@ -66,5 +66,5 @@ This will run the application in the development mode but make sure you have ins
 
 If you find any problem and tried enough although didn't solve those issues then let me know it.
 
-👉 mail me at mdemon7475@gmail.com
-👉 put a message at twitter.com/emonhossain_dev
+👉 mail me at poojashreeraguram@gmail.com
+
